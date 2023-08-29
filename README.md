@@ -1,8 +1,10 @@
+
 ### Olá! Eu sou John Victor 🖐 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferreirabeginner/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joohnfb/)
-![John GitHub stats](https://github-readme-stats.vercel.app/api?username=johnvictor2001&show_icons=true&theme=dark)
+
+![John GitHub stats](https://github-readme-stats.vercel.app/api?username=johnvictor2001&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnvictor2001)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
 
